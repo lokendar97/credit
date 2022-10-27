@@ -78,10 +78,6 @@ Follow the instruction given on [Heroku Documentation](https://devcenter.heroku.
 
 [<img target="_blank" src="https://jupyter.org/assets/nav_logo.svg" width=150>](https://jupyter.org)
 
-## Team
-[![Debmalya Ghosal](https://avatars2.githubusercontent.com/u/60285205?s=144&u=45fc55fc21b66ed5ea26153766e3d8e1cc3f4449&v=4)](https://github.com/debmalya92) |
--|
-[Debmalya Ghosal](https://github.com/debmalya92) |)
 
 ## Credits
 - The datasets has been provided by [Kaggle](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset). The original dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) at the UCI Machine Learning Repository. This project wouldn't have been possible without this dataset.
